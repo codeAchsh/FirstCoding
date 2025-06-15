@@ -13,7 +13,7 @@ Sunana Restaurant は、オンラインWebデザインスクールが始まっ�
 - assets/css/images/
 
 
-**English version**
+**English Information**
 This was the beginning of everything.
 Sunana Restaurant was my “first restaurant,” created as my first assignment when the online web design school started. It is filled with “memories of challenges” rather than code.
 Now, a year later, I am publishing this work as it is. I am publishing this work as it is now, a year later, because it is the “me as I was” at that time, including the immature parts.
